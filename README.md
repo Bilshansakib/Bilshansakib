@@ -14,6 +14,7 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
   <img src="https://img.shields.io/badge/CRUD-4CAF50?style=for-the-badge&logo=databricks&logoColor=white" alt="CRUD" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <!--   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> -->
 </p>
 
@@ -28,7 +29,7 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
 </p>
 
 <p align="center">
-  <p>Feel free to connect with me or check out my projects!</p>
+  ---Feel free to connect with me or check out my projects!
 </p>
 
 <p align="center">
