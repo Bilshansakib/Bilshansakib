@@ -22,10 +22,13 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Bilshansakib&theme=synthwave" alt="GitHub Trophies" />
 </p>
----
+
+<p align="center">
+  ---
 
 Feel free to connect with me or check out my projects!
 
+</p>
 <!--
 **Bilshansakib/Bilshansakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
