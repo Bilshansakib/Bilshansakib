@@ -24,15 +24,12 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
 </p>
 
 <p align="center">
-  ---
-
-Feel free to connect with me or check out my projects!
-
+  <p>Feel free to connect with me or check out my projects!</p>
 </p>
 <!--
 **Bilshansakib/Bilshansakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas tFeel free to connect with me or check out my projects!o get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
