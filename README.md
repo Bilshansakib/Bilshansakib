@@ -1,5 +1,7 @@
-![Programming Logo Banner](https://via.placeholder.com/1000x200.png?text=Passionate+Web+Developer) 
-
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
+</p>
+<br><br>
 # Hi there, I'm Tech Lover Sakib ! 👋
 
 ## About Me
@@ -28,6 +30,11 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
 <p align="center">
   <p>Feel free to connect with me or check out my projects!</p>
 </p>
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
+</p>
+
 <!--
 **Bilshansakib/Bilshansakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
