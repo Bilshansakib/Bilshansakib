@@ -14,13 +14,14 @@ I'm a passionate web developer with a strong foundation in HTML, CSS, JavaScript
 </p>
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bilshansakib&theme=tokyonight)
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bilshansakib&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Bilshansakib&theme=synthwave)
-
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Bilshansakib&theme=synthwave" alt="GitHub Trophies" />
+</p>
 ---
 
 Feel free to connect with me or check out my projects!
